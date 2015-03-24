@@ -11,6 +11,9 @@ This is a Fork of the orignal Raspcontrol by Bioshox - It appears the repo is no
 
 You need a web server installed on your Raspberry Pi.
 
+sudo apt-get install apache2
+sudo apt-get install php5
+
 
 If you are in a hurry, just clone the repository with:
 

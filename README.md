@@ -15,6 +15,8 @@ sudo apt-get install apache2
 
 sudo apt-get install php5
 
+sudo apt-get install libapache2-mod-php5
+
 
 If you are in a hurry, just clone the repository with:
 
